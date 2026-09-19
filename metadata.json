@@ -1,0 +1,6 @@
+{
+  "name": "BalVeda",
+  "description": "Gamified child-development system (birth to age 7) synthesizing ancient Indian universal wisdom with modern neuroscience, emotional intelligence, and 21st-century skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
